@@ -123,3 +123,7 @@ span{
     font-size: 14px;
     font-weight: 600;
 }
+
+.mx-10{
+    margin: 0 200px;
+}
