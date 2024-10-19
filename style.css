@@ -24,10 +24,10 @@ body{
     color: #ee1c47;
 }
 .nav-icons i{
-    margin-right: 20px;
     color: #2c2c2c;
     font-size: 20px;
     transition: all .42s ease;
+    margin-right: 5px;
 }
 .nav-icons i:hover{
     color: #ee1c47;
